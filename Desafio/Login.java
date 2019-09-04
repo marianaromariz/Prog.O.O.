@@ -1,3 +1,6 @@
+//Nome: Daniel Guimarães Faria
+//Matrícula: 0050010533
+
 package Desafio;
 
 import java.awt.EventQueue;
@@ -79,7 +82,7 @@ public class Login {
 			}
 			else 
 			{
-				JOptionPane.showMessageDialog(frame,"Login ou Senha inv�lidos!");
+				JOptionPane.showMessageDialog(frame,"Login ou Senha inválidos!");
 			}
 			}
 		});
